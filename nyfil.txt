@@ -10,4 +10,4 @@ Användare ett skriver en textrad i den nya branchen.
 
 Ny användare skriver en textrad  i den nya branchen newtextedit.
 
-Ny användare skriver en textrad som ska orsaka konflikt.
+Vi behåller en ny textrad och har fixat konflikt.
