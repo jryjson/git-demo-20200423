@@ -9,3 +9,5 @@ En textrad som ny användare.
 Användare ett skriver en textrad i den nya branchen.
 
 Ny användare skriver en textrad  i den nya branchen newtextedit.
+
+Ny användare skriver en textrad som ska orsaka konflikt.
