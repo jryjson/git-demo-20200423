@@ -11,3 +11,5 @@ Användare ett skriver en textrad i den nya branchen.
 Ny användare skriver en textrad  i den nya branchen newtextedit.
 
 Vi behåller en ny textrad och har fixat konflikt.
+
+Ny textrad.
